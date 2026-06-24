@@ -1,0 +1,21 @@
+-->Machine Learning Basics,supervised vs unsupervised learning, why ML is useful.
+-->Linear Regression(Single and Multi-Variable)- used to predicct continuos numerical value based on one or more input features.
+-->Logistic Regression(Binary and multiclass)-studied regression vs classification 
+                                              sigmoid function
+                                              used for classification problems where the output belongs to one of several categories rather than being a continuous number.
+-->understanding the concept of Gradient Descent and Cost function - how the straight line is obtained.
+-->Learned how model is saved using Pickle and Joblib
+-->Dummy Variables-Converting categorical data (city, gender, etc.) into numerical form for the ml models, also leaned One Hot Encoder method by sklearn.
+-->Training and Testing Data Sets-the dataset is divided into training and testing datasets using a technique called Train-Test Split.
+                                  Training Set – Used to train the machine learning model.
+                                  Training Set – Used to train the machine learning model.
+                                  this is done to ensure that model works well on new data.
+-->Decision Tree and Random Forest-studied how decision trees make predictions by recursively splitting data based on feature values 
+                                    how random forests improve prediction accuracy by combining multiple decision trees.
+-->Naive Bayes-Learned a probabilistic classification algorithm based on Bayes' Theorem and feature independence assumptions.
+-->Support Vector Machine (SVM)-Hyperplanes, margins, kernels, classification with maximum separation.
+--> studied what is hyperparameter tuning.
+
+-->K-Means clustering-Unsupervised learning, grouping similar data points into clusters.
+-->Principal Component Analysis (PCA)-Dimensionality reduction, feature compression while preserving information.
+-->Ensemble Learning-combining models improves prediction accuracy, bias-variance concept,Bootstrap sampling,training multiple models on different subsets,
