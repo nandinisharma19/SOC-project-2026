@@ -1,0 +1,15 @@
+-->Introduction to large language models
+-->What is a Large Language Model (LLM)?
+An LLM is an AI model trained on huge amounts of text to predict the next word and generate human-like responses.
+-->Training Data,Tokens-Text is broken into small pieces called tokens, which the model processes one by one.
+-->Next Token Prediction – The model learns by predicting the next token in a sentence.
+-->Neural networks are used to learn relationships between words and sentences.
+-->Pretraining teaches the model general knowledge from large amounts of text.
+-->Prompting guides the model by providing instructions or examples.
+-->Large Language Models can perform tasks such as writing, summarization, and translation.
+-->Model evaluation measures the quality and accuracy of generated outputs.
+-->Large Language Models are powerful tools but still require human supervision and verification.
+-->learned how to use the OpenAI API to generate responses from language models,how prompt templates help create structured and reusable prompts
+-->Dynamic User Interfaces: learned to build a ChatGPT-like web interface using the Chainlit framework and LangChain.
+-->Vector Databases & Embeddings: learned how to use ChromaDB to store data as embeddings, enabling models to perform Q&A on private documents like PDFs.
+-->AI Agents & Tools:  discovered how to use the ReAct framework to build autonomous agents capable of performing research, executing code, and utilizing custom tools for real-world tasks
