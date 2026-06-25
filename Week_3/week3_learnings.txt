@@ -1,0 +1,19 @@
+-->Learned the basics of Deep Learning and its applications in AI.
+-->Understood artificial neurons and how neural networks are inspired by the human brain.Learned the architecture and working of a neural network.
+-->Learned how to train a neural network using TensorFlow and Keras.
+-->Learned about activation functions and why they are needed.
+-->derivatives and matrix basics
+-->Studied loss functions and how they measure model errors.
+-->Learned the concept and working of gradient descent.Understood batch gradient descent and its implementation.
+-->Learned the difference between underfitting and overfitting.
+-->Studied methods like dropout and regularization to reduce overfitting.
+-->Studied validation datasets and techniques to improve generalization.
+-->Learned why GPUs help in training deep learning models faster.
+-->Evaluation Metrics: Moving beyond simple accuracy to study Precision, Recall, and F1-Score using a confusion matrix. This helps judge models when data is highly unbalanced
+-->Handling Unbalanced Data: Strategies like oversampling the minority group or undersampling the majority group to ensure the model doesn't just guess the most common answer.
+-->Introduction to CNNs: Why traditional dense networks fail with images . A look at how the human brain processes visual features using local filters.
+-->How CNNs Work:Convolution: Applying small matrices (filters/kernels) to detect edges, shapes, and textures.
+                 Padding & Strides: Keeping border pixels intact and choosing how many steps a filter moves.
+                 Pooling (Max Pooling): Downsizing the image resolution to reduce computation while retaining the most important features.    
+-->Learned image augmentation techniques to improve model training,Learned the basic idea of transfer learning
+
