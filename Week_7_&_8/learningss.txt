@@ -1,0 +1,5 @@
+This week was focused on creating a web apllication using streamlit and integrate it with the yolov8.
+Learned basics of streamlit, Created interactive web application using Streamlit Using widgets such as buttons, file uploaders, and image displays.
+Installing and configuring Ollama was done, Runned a local LLM (Llama 3.2) using Ollama.
+
+
