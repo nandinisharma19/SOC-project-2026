@@ -1,0 +1,9 @@
+This week was focused on creating the Yolov8 model for this project and experimenting with nano, small, medium, and large models and find the best.pt from them.
+Understood the YOLOv8 object detection workflow.
+Trained and compared YOLOv8 Nano, Small, Medium, and Large models.
+Analyzed training curves and confusion matrices.
+Visualized model predictions using bounding boxes.
+Evaluating models using Precision, Recall, mAP@50, and mAP@50-95.
+Learned about yolov8 model and how to use it 
+
+
