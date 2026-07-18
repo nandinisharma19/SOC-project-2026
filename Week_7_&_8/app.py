@@ -3,13 +3,9 @@ from ultralytics import YOLO
 from PIL import Image
 import ollama 
 from datetime import date
-import os
-st.write("Current working directory:", os.getcwd())
-st.write("Files:", os.listdir())
 st.title("AI System for Industry Quality Assurance")
 st.subheader('This is AI model that helps you detect defect in steel surface in your factory and generates AI-powered maintainence report.')
 st.write('Enter image below to proceed further')
-
 
 uploaded_image=st.file_uploader('upload steel surface image here:',type=['png','jpg','jpeg'])
 model=YOLO('best.pt')
