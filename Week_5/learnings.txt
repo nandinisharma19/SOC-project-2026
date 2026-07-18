@@ -1,0 +1,8 @@
+During this week I learned basics of Exploratory Data Analysis(EDA)
+ Understanding the dataset using .head(), .info(), and .describe()
+ Detecting and handling missing values
+ Analyzing data distributions using histograms and boxplots
+ Converting data types for efficient analysis
+ Using Pandas for data manipulation
+ Creating visualizations with Matplotlib
+ Identifying and removing duplicate records
